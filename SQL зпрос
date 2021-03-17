@@ -1,0 +1,3 @@
+SELECT ProductName,CategoryID FROM [Products]
+///https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
+///К сожалению я не силен в SQL,поэтому я не понимаю как может быть в одном столбце два значащих выражения 
